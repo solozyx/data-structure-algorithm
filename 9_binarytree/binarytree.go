@@ -70,9 +70,9 @@ func main() {
 /*
 		    1
 		/       \
-                              2          3
-                            /   \          \
-                        10    12          4
+      2          3
+   /   \          \
+ 10    12          4
 
 go run binarytree.go
 前序遍历
